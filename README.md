@@ -1,5 +1,8 @@
 # Healthcare Analytics Dashboard: Diabetic Patient Readmission Analysis
 
+![Dashboard Screenshot](Dashboard.png.png)
+# Healthcare Analytics Dashboard: Diabetic Patient Readmission Analysis
+
 ## Project Overview
 
 This Power BI dashboard analyzes diabetic patient readmissions and helps identify high-risk patients using healthcare data.
